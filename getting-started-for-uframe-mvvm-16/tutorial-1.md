@@ -62,7 +62,7 @@ First of all you need to open MainMenuSystem graph. Check opened graph tabs:
 
 ![Opened graph tabs](/images/getting-started-for-uframe-mvvm-16/uframe_graph_tabs.png)
 
-If it contains MainMenuSystem, simply click it.
+If it contains MainMenuSystem, simply click it. 
 If MainMenuSystem tab is not there, click Graph selection control and select MainMenuSystem:
 
 ![How to open graph](/images/getting-started-for-uframe-mvvm-16/open_graph_example.png)
@@ -126,7 +126,7 @@ Once we select it, it should appear in the list of existing bindings (1):
 
 ![](/images/getting-started-for-uframe-mvvm-16/img_0012.png)
 
-We have successfully added binding to the LoginScreenView node.
+We have successfully added binding to the LoginScreenView node!
 
 ###### Learn how to change logic in controllers and services
 
